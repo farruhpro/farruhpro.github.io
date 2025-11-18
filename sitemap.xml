@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-	<url>
-		<loc>http://farrukhpro.tilda.ws/</loc>
-		<lastmod>2025-10-03T21:21:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://farrukhpro.tilda.ws/page74251271.html</loc>
-		<lastmod>2025-10-03T21:19:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://farrukhpro.tilda.ws/ru</loc>
-		<lastmod>2025-10-03T21:22:38+00:00</lastmod>
-	</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://farrukh.pro/</loc>
+  <lastmod>2025-11-05T23:25:28+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://farrukh.pro/ru/</loc>
+  <lastmod>2025-11-05T23:25:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
